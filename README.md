@@ -12,8 +12,8 @@
 
 # Basic Information
 
-- Zihan Wang
-- Qing Wang, Jie Yang, Di Yang
+- Student: Zihan Wang
+- Supervisors: Qing Wang, Jie Yang, Di Yang
 - 2024
 
 
