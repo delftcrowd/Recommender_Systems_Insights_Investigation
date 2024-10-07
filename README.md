@@ -91,6 +91,8 @@ SURF Drive link: https://surfdrive.surf.nl/files/index.php/s/gbGwzEn0xgAR8PJ?pat
  }
 
 # Installation & Usage
+**Installation:** Node.js, Vue3, Nginx
+
 To properly deploy this, you have to run both the **node.js server**(backend) and the **website** server. 
 
 **Server:**
